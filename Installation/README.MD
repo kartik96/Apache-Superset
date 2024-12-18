@@ -5,6 +5,7 @@ Clone the superet repository from github using the following command on the term
 
 ``` 
 git clone --depth=1  https://github.com/apache/superset.git
+```
 
 Ensure that the Docker application is installed on your laptop and that you have completed the sign-up process
 
