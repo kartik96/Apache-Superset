@@ -28,6 +28,7 @@ You should see the following screen once the page loads successfully:
 ### Log in to Apache Superset using the following credentials:
 
 Username: admin
+
 Password: admin
 
 And voilà! You're now logged in to Apache Superset and can start exploring the dashboards. 🎉
