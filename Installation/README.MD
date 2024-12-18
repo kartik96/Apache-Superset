@@ -27,7 +27,7 @@ You should see the following screen once the page loads successfully:
 
 ### Log in to Apache Superset using the following credentials:
 
-Username: admin
+</b>Username</b>: admin
 
 Password: admin
 
